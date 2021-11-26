@@ -1,4 +1,4 @@
-因為ReactNative-Cl環境建立不起來，只能使用才用Expo CLI耗時時間一天中午和晚上。
+因為ReactNative-Cl環境建立不起來，只能使用Expo CLI耗時時間一天中午和晚上。
 
 <div style="text-align:center;display:flex;">
 
