@@ -1,10 +1,9 @@
 因為ReactNative-Cl環境建立不起來，只能使用才用Expo CLI耗時時間一天中午和晚上。
 
-
 <div style="text-align:center;display:flex;">
 
-   <img style="flex:1; padding: 0.25rem" src="https://i.imgur.com/ORbATp8.jpg" width="48%"/>
-   <img style="flex:1; padding: 0.25rem" src="https://i.imgur.com/MZ6YqNA.jpg" width="48%"/>
+   <img style="flex:1; padding: 0.25rem" src="https://i.imgur.com/eWQHNyZ.jpg" width="48%"/>
+   <img style="flex:1; padding: 0.25rem" src="https://i.imgur.com/GaZOUR1.jpg" width="48%"/>
    
 </div>
 
